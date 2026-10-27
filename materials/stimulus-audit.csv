@@ -1,0 +1,76 @@
+﻿set,topic,path,subject,target,title,title_characters,identifier_characters,title_format,identifier_start_character,summary_words,point_1_words,point_2_words,article_words,high_load_task_position,low_load_task_position
+1,Sports,Content Set 1/content 1.1.html,Archery,,Archery Target Accuracy,23,7,subject first,1,45,11,11,67,1,
+1,Sports,Content Set 1/content 1.2.html,Basketball,P1,Basketball Passing and Scoring,30,10,subject first,1,46,11,11,68,2,1
+1,Sports,Content Set 1/content 1.3.html,Badminton,,Badminton Rallies Across the Net,32,9,subject first,1,45,12,12,69,3,
+1,Sports,Content Set 1/content 1.4.html,Volleyball,,Volleyball Court Positions,26,10,subject first,1,46,12,11,69,5,
+1,Sports,Content Set 1/content 1.5.html,Swimming,P2,Swimming Strokes and Relays,27,8,subject first,1,46,11,11,68,4,2
+1,Sports,Content Set 1/content 1.6.html,Table Tennis,,Table Tennis Spin and Bounce,28,12,subject first,1,46,11,12,69,6,
+1,Sports,Content Set 1/content 1.7.html,Water Polo,,Water Polo Team Play,20,10,subject first,1,46,13,11,70,7,
+1,Sports,Content Set 1/content 1.8.html,Track Cycling,P3,Track Cycling Race Formats,26,13,subject first,1,48,11,11,70,8,3
+1,Sports,Content Set 1/content 1.9.html,Handball,,Handball Attacks and Defense,28,8,subject first,1,48,11,11,70,9,
+1,Sports,Content Set 1/content 1.10.html,Gymnastics,,Gymnastics Balance and Control,30,10,subject first,1,45,11,11,67,10,
+1,Sports,Content Set 1/content 1.11.html,Field Hockey,P4,Field Hockey Scoring Rules,26,12,subject first,1,46,12,12,70,11,4
+1,Sports,Content Set 1/content 1.12.html,Triathlon,,Triathlon Race Transitions,26,9,subject first,1,46,11,12,69,12,
+1,Sports,Content Set 1/content 1.13.html,Weightlifting,,Weightlifting Snatch and Jerk,29,13,subject first,1,45,11,11,67,13,
+1,Sports,Content Set 1/content 1.14.html,Wrestling,P5,Wrestling Grips and Scoring,27,9,subject first,1,48,11,12,71,15,5
+1,Sports,Content Set 1/content 1.15.html,Canoe Sprint,,Canoe Sprint Racing Lanes,25,12,subject first,1,47,11,11,69,14,
+2,Animals,Content Set 2/content 2.1.html,Capybara,,Capybara Life Near Water,24,8,subject first,1,46,14,11,71,2,
+2,Animals,Content Set 2/content 2.2.html,Red Panda,P1,Red Panda Forest Life,21,9,subject first,1,46,13,12,71,1,1
+2,Animals,Content Set 2/content 2.3.html,Meerkat,,Meerkat Burrows and Warning Calls,33,7,subject first,1,47,11,11,69,3,
+2,Animals,Content Set 2/content 2.4.html,Giraffe,,Giraffe Height and Feeding,26,7,subject first,1,47,12,12,71,4,
+2,Animals,Content Set 2/content 2.5.html,Fennec Fox,P2,Fennec Fox Desert Adaptations,29,10,subject first,1,48,12,11,71,6,2
+2,Animals,Content Set 2/content 2.6.html,River Otter,,River Otter Freshwater Habitats,31,11,subject first,1,47,12,12,71,5,
+2,Animals,Content Set 2/content 2.7.html,Cheetah,,Cheetah Speed and Hunting,25,7,subject first,1,48,12,11,71,7,
+2,Animals,Content Set 2/content 2.8.html,Giant Panda,P3,Giant Panda Bamboo Diet,23,11,subject first,1,48,11,11,70,9,3
+2,Animals,Content Set 2/content 2.9.html,Orangutan,,Orangutan Life in Trees,23,9,subject first,1,49,12,12,73,8,
+2,Animals,Content Set 2/content 2.10.html,Hippopotamus,,Hippopotamus Resting and Grazing,32,12,subject first,1,48,12,12,72,10,
+2,Animals,Content Set 2/content 2.11.html,Polar Bear,P4,Polar Bear Hunting From Ice,27,10,subject first,1,48,12,12,72,12,4
+2,Animals,Content Set 2/content 2.12.html,Platypus,,Platypus Finding Food Underwater,32,8,subject first,1,48,12,12,72,11,
+2,Animals,Content Set 2/content 2.13.html,Sea Lion,,Sea Lion Swimming Adaptations,29,8,subject first,1,49,13,12,74,13,
+2,Animals,Content Set 2/content 2.14.html,Snow Leopard,P5,Snow Leopard Mountain Adaptations,33,12,subject first,1,50,12,11,73,14,5
+2,Animals,Content Set 2/content 2.15.html,Komodo Dragon,,Komodo Dragon Feeding and Shelter,33,13,subject first,1,48,12,12,72,15,
+3,Nature,Content Set 3/content 3.1.html,Rainforests,,Rainforests Canopy and Forest Life,34,11,subject first,1,42,11,11,64,1,
+3,Nature,Content Set 3/content 3.2.html,Waterfalls,P1,Waterfalls Shape Rocky Landscapes,33,10,subject first,1,42,11,11,64,3,1
+3,Nature,Content Set 3/content 3.3.html,Wetlands,,Wetlands Filter and Slow Water,30,8,subject first,1,43,11,11,65,2,
+3,Nature,Content Set 3/content 3.4.html,Sand Dunes,,Sand Dunes Shaped by Wind,25,10,subject first,1,43,11,11,65,4,
+3,Nature,Content Set 3/content 3.5.html,Volcanoes,P2,Volcanoes Lava and Landforms,28,9,subject first,1,44,11,11,66,5,2
+3,Nature,Content Set 3/content 3.6.html,Grasslands,,Grasslands Fire and Grazing,27,10,subject first,1,43,11,11,65,6,
+3,Nature,Content Set 3/content 3.7.html,Caves,,Caves Water and Rock,20,5,subject first,1,44,11,11,66,8,
+3,Nature,Content Set 3/content 3.8.html,Coral Reefs,P3,Coral Reefs Support Marine Life,31,11,subject first,1,44,12,11,67,7,3
+3,Nature,Content Set 3/content 3.9.html,Glaciers,,Glaciers Reshape Valleys,24,8,subject first,1,45,11,11,67,9,
+3,Nature,Content Set 3/content 3.10.html,River Deltas,,River Deltas Sediment Deposits,30,12,subject first,1,44,11,11,66,11,
+3,Nature,Content Set 3/content 3.11.html,Mangroves,P4,Mangroves Stabilize Coastal Sediment,36,9,subject first,1,43,11,11,65,10,4
+3,Nature,Content Set 3/content 3.12.html,Canyons,,Canyons Reveal Rock Layers,26,7,subject first,1,44,11,11,66,12,
+3,Nature,Content Set 3/content 3.13.html,Tidal Pools,,Tidal Pools Changing Conditions,31,11,subject first,1,43,11,11,65,14,
+3,Nature,Content Set 3/content 3.14.html,Mountains,P5,Mountains Formation and Erosion,31,9,subject first,1,43,11,11,65,13,5
+3,Nature,Content Set 3/content 3.15.html,Estuaries,,Estuaries Mix Freshwater and Seawater,37,9,subject first,1,44,11,11,66,15,
+4,Science,Content Set 4/content 4.1.html,Magnets,,Magnets Attract and Repel,25,7,subject first,1,43,12,11,66,1,
+4,Science,Content Set 4/content 4.2.html,Gravity,P1,Gravity Mass and Attraction,27,7,subject first,1,44,12,11,67,2,1
+4,Science,Content Set 4/content 4.3.html,Sound Waves,,Sound Waves Transfer Energy,27,11,subject first,1,43,11,11,65,3,
+4,Science,Content Set 4/content 4.4.html,Solar Panels,,Solar Panels Generate Electricity,33,12,subject first,1,44,11,11,66,4,
+4,Science,Content Set 4/content 4.5.html,Light Waves,P2,Light Waves and Visible Colors,30,11,subject first,1,43,12,11,66,6,2
+4,Science,Content Set 4/content 4.6.html,Telescopes,,Telescopes Reveal Distant Objects,33,10,subject first,1,43,11,11,65,5,
+4,Science,Content Set 4/content 4.7.html,Electric Circuits,,Electric Circuits and Current,29,17,subject first,1,44,11,11,66,7,
+4,Science,Content Set 4/content 4.8.html,Planets,P3,Planets Orbits and Composition,30,7,subject first,1,44,11,11,66,8,3
+4,Science,Content Set 4/content 4.9.html,Levers,,Levers Force and Fulcrums,25,6,subject first,1,44,12,11,67,9,
+4,Science,Content Set 4/content 4.10.html,Batteries,,Batteries Store Chemical Energy,31,9,subject first,1,44,11,11,66,10,
+4,Science,Content Set 4/content 4.11.html,Mirrors,P4,Mirrors Reflect Light,21,7,subject first,1,43,11,11,65,12,4
+4,Science,Content Set 4/content 4.12.html,Microscopes,,Microscopes Reveal Small Details,32,11,subject first,1,44,11,11,66,11,
+4,Science,Content Set 4/content 4.13.html,Friction,,Friction Resists Sliding Between Surfaces,41,8,subject first,1,43,11,11,65,13,
+4,Science,Content Set 4/content 4.14.html,Optical Lenses,P5,Optical Lenses Redirect Light,29,14,subject first,1,44,12,11,67,15,5
+4,Science,Content Set 4/content 4.15.html,Satellites,,Satellites Natural and Artificial,33,10,subject first,1,44,11,11,66,14,
+5,History,Content Set 5/content 5.1.html,Printing Press,,Printing Press and Movable Type,31,14,subject first,1,42,12,12,66,2,
+5,History,Content Set 5/content 5.2.html,Steam Engine,P1,Steam Engine Mechanical Power,29,12,subject first,1,42,12,11,65,1,1
+5,History,Content Set 5/content 5.3.html,Telegraph,,Telegraph Signals Carry Messages,32,9,subject first,1,42,13,12,67,3,
+5,History,Content Set 5/content 5.4.html,Telephone,,Telephone Conversations Across Distances,40,9,subject first,1,44,12,12,68,5,
+5,History,Content Set 5/content 5.5.html,Typewriter,P2,Typewriter Keys Produce Text,28,10,subject first,1,44,12,13,69,4,2
+5,History,Content Set 5/content 5.6.html,Sewing Machine,,Sewing Machine Clothing Production,34,14,subject first,1,44,12,12,68,6,
+5,History,Content Set 5/content 5.7.html,Phonograph,,Phonograph Recording and Playback,33,10,subject first,1,45,13,12,70,8,
+5,History,Content Set 5/content 5.8.html,Bicycle,P3,Bicycle Design Through History,30,7,subject first,1,44,13,12,69,7,3
+5,History,Content Set 5/content 5.9.html,Camera,,Camera Origins in Image Projection,34,6,subject first,1,43,12,12,67,9,
+5,History,Content Set 5/content 5.10.html,Light Bulb,,Light Bulb Filament Improvements,32,10,subject first,1,43,11,12,66,10,
+5,History,Content Set 5/content 5.11.html,Radio,P4,Radio Broadcasting Reaches Homes,32,5,subject first,1,45,12,12,69,11,4
+5,History,Content Set 5/content 5.12.html,Compass,,Compass Needles Guide Navigation,32,7,subject first,1,43,13,12,68,12,
+5,History,Content Set 5/content 5.13.html,Mechanical Clock,,Mechanical Clock Gears and Timekeeping,38,16,subject first,1,43,12,12,67,13,
+5,History,Content Set 5/content 5.14.html,Locomotive,P5,Locomotive Design for Railways,30,10,subject first,1,46,12,12,70,14,5
+5,History,Content Set 5/content 5.15.html,Paper Money,,Paper Money Security Designs,28,11,subject first,1,44,12,12,68,15,

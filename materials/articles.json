@@ -1,0 +1,1018 @@
+{
+  "sets": [
+    {
+      "topic": "Sports",
+      "sources": [
+        {
+          "title": "Team Canada: Archery",
+          "url": "https://olympic.ca/sports/archery/"
+        },
+        {
+          "title": "Team Canada: Basketball",
+          "url": "https://olympic.ca/sports/basketball/"
+        },
+        {
+          "title": "Team Canada: Badminton",
+          "url": "https://olympic.ca/sports/badminton/"
+        },
+        {
+          "title": "Team Canada: Indoor Volleyball",
+          "url": "https://olympic.ca/sports/indoor-volleyball/"
+        },
+        {
+          "title": "Team Canada: Swimming",
+          "url": "https://olympic.ca/sports/swimming/"
+        },
+        {
+          "title": "Team Canada: Table Tennis",
+          "url": "https://olympic.ca/sports/table-tennis/"
+        },
+        {
+          "title": "Team Canada: Water Polo",
+          "url": "https://olympic.ca/sports/water-polo/"
+        },
+        {
+          "title": "Team Canada: Track Cycling",
+          "url": "https://olympic.ca/sports/track-cycling/"
+        },
+        {
+          "title": "Team Canada: Handball",
+          "url": "https://olympic.ca/sports/handball/"
+        },
+        {
+          "title": "Team Canada: Artistic Gymnastics",
+          "url": "https://olympic.ca/sports/artistic/"
+        },
+        {
+          "title": "Team Canada: Field Hockey",
+          "url": "https://olympic.ca/sports/field-hockey/"
+        },
+        {
+          "title": "Team Canada: Triathlon",
+          "url": "https://olympic.ca/sports/triathlon/"
+        },
+        {
+          "title": "Team Canada: Weightlifting",
+          "url": "https://olympic.ca/sports/weightlifting/"
+        },
+        {
+          "title": "Team Canada: Wrestling",
+          "url": "https://olympic.ca/sports/wrestling/"
+        },
+        {
+          "title": "Team Canada: Sprint Paddle",
+          "url": "https://olympic.ca/sports/paddlesport-sprint-paddle/"
+        }
+      ],
+      "items": [
+        {
+          "name": "Archery",
+          "summary": "Archery involves aiming a bow and releasing arrows toward a target. The target has scoring areas that reward accurate shots. Competitors try to repeat a steady movement while managing their aim and release. Events may involve individual archers or teams shooting in a planned order.",
+          "points": [
+            "A consistent stance helps an archer repeat the same shooting movement.",
+            "Arrows closer to the target's center normally receive more scoring points."
+          ],
+          "title": "Archery Target Accuracy"
+        },
+        {
+          "name": "Basketball",
+          "summary": "Basketball is a team game played on a court with a raised basket at each end. Players move the ball by passing or dribbling and try to score through the opposing basket. In the standard full court game, five players from each team play at once.",
+          "points": [
+            "Teams switch between attacking a basket and defending their own basket.",
+            "Successful shots can receive different point values depending on their location."
+          ],
+          "title": "Basketball Passing and Scoring"
+        },
+        {
+          "name": "Badminton",
+          "summary": "Badminton is played with rackets and a shuttlecock on a court divided by a net. Players aim to land the shuttlecock inside the opposing side's boundaries. Matches may feature one player on each side or pairs working together to cover their side of the court.",
+          "points": [
+            "A rally continues while players successfully return the shuttlecock across the net.",
+            "Placement and changes of pace can move an opponent around the court."
+          ],
+          "title": "Badminton Rallies Across the Net"
+        },
+        {
+          "name": "Volleyball",
+          "summary": "Volleyball is a team sport in which opponents play across a raised net. In the indoor game, each side has six players on court. Teams combine passing, setting, and attacking to send the ball over the net while preventing it from landing on their own side.",
+          "points": [
+            "A team normally has three contacts to return the ball, excluding blocks.",
+            "Players rotate positions when their team wins the right to serve."
+          ],
+          "title": "Volleyball Court Positions"
+        },
+        {
+          "name": "Swimming",
+          "summary": "Competitive swimming involves completing a course through water as quickly as possible. Pool races use different distances and swimming styles, including backstroke, breaststroke, butterfly, and freestyle. Some races are individual events, while relays divide the race among teammates who enter the water in a set order.",
+          "points": [
+            "Turns and starts are important parts of a swimmer's overall race.",
+            "Medley events combine several swimming styles within the same scheduled race."
+          ],
+          "title": "Swimming Strokes and Relays"
+        },
+        {
+          "name": "Table Tennis",
+          "summary": "Table tennis is played across a table divided by a small net. Players use rackets to send a light ball onto the opponent's half. The ball's speed, direction, and spin affect how it travels and bounces. Matches can involve individual opponents or pairs playing doubles together.",
+          "points": [
+            "Players must judge both the incoming ball's bounce and its spin.",
+            "A game normally requires eleven points and a two point winning margin."
+          ],
+          "title": "Table Tennis Spin and Bounce"
+        },
+        {
+          "name": "Water Polo",
+          "summary": "Water polo combines swimming with a team ball game in a pool. Players pass the ball and try to throw it into the other team's goal. Seven players from each side, including a goalkeeper, are in the water during standard play, moving between attack and defense.",
+          "points": [
+            "Field players generally handle the ball using only one hand at a time.",
+            "Players remain afloat by swimming or treading water during active play."
+          ],
+          "title": "Water Polo Team Play"
+        },
+        {
+          "name": "Track Cycling",
+          "summary": "Track cycling takes place on an oval track called a velodrome. Its events include short sprints, longer races, and team competitions. Riders use speed, timing, and positioning to meet an event's goal. Different events may reward finishing first, recording the fastest time, or collecting points throughout a race.",
+          "points": [
+            "The track's banked bends help riders negotiate turns at racing speeds.",
+            "Team events require riders to coordinate their efforts and riding positions."
+          ],
+          "title": "Track Cycling Race Formats"
+        },
+        {
+          "name": "Handball",
+          "summary": "Handball is an indoor team sport centered on throwing a ball into a defended goal. Players pass, dribble, and move into space to build an attack. Seven players from each side, including the goalkeeper, take part on court, while the defending team attempts to prevent clear shooting opportunities.",
+          "points": [
+            "Passing and movement help attacking players create space near the goal.",
+            "The goalkeeper protects the net while teammates defend against incoming attacks."
+          ],
+          "title": "Handball Attacks and Defense"
+        },
+        {
+          "name": "Gymnastics",
+          "summary": "Artistic gymnastics combines controlled movement with strength, balance, and coordination. Athletes perform routines on a floor area or on apparatus such as bars, rings, and a beam. Judges consider the difficulty of a routine and how accurately its movements are performed, including control during landings.",
+          "points": [
+            "An all around competition combines a gymnast's results across several apparatus.",
+            "Routines link individual skills into a sequence with a controlled finish."
+          ],
+          "title": "Gymnastics Balance and Control"
+        },
+        {
+          "name": "Field Hockey",
+          "summary": "Field hockey is a team game played with sticks and a small ball. Players pass and carry the ball along the field while trying to score in the opposing goal. The standard outdoor game has eleven players per side, including a goalkeeper who wears protective equipment.",
+          "points": [
+            "Players use the flat side of the stick to control the ball.",
+            "A scoring shot must be played from inside the attacking shooting circle."
+          ],
+          "title": "Field Hockey Scoring Rules"
+        },
+        {
+          "name": "Triathlon",
+          "summary": "Triathlon combines swimming, cycling, and running into one continuous race. Competitors move between the three activities in designated transition areas. The overall result includes the time spent changing equipment, so a smooth transition matters alongside performance during each part. Race distances vary among different triathlon events.",
+          "points": [
+            "The usual race order is swimming first, then cycling, then running.",
+            "Athletes manage their effort across all three activities rather than one alone."
+          ],
+          "title": "Triathlon Race Transitions"
+        },
+        {
+          "name": "Weightlifting",
+          "summary": "Olympic weightlifting involves raising a loaded barbell from the floor to an overhead position. Competition uses two lifts called the snatch and the clean and jerk. Athletes attempt progressively selected weights, and their best successful result in each lift contributes to an overall combined total.",
+          "points": [
+            "The snatch brings the bar overhead in one continuous lifting movement.",
+            "The clean and jerk first brings the bar to the shoulders."
+          ],
+          "title": "Weightlifting Snatch and Jerk"
+        },
+        {
+          "name": "Wrestling",
+          "summary": "Wrestling is a combat sport in which two athletes compete on a mat. They use grips, movement, and controlled techniques to gain an advantage over each other. A wrestler can win by pinning an opponent's shoulders or by earning points under the rules of the particular wrestling style.",
+          "points": [
+            "Freestyle and Greco Roman wrestling differ in the techniques they permit.",
+            "Referees award points for actions that establish control or expose an opponent."
+          ],
+          "title": "Wrestling Grips and Scoring"
+        },
+        {
+          "name": "Canoe Sprint",
+          "summary": "Canoe sprint involves racing narrow boats along a straight course on calm water. In canoe events, paddlers kneel and use a paddle with one blade. Races may involve individual paddlers or teammates in the same boat. Competitors try to reach the finish before boats in neighboring lanes.",
+          "points": [
+            "Racing lanes separate competing boats as they travel along the course.",
+            "Paddlers coordinate strength and technique to maintain speed throughout the race."
+          ],
+          "title": "Canoe Sprint Racing Lanes"
+        }
+      ]
+    },
+    {
+      "topic": "Animals",
+      "sources": [
+        {
+          "title": "San Diego Zoo: Capybara",
+          "url": "https://animals.sandiegozoo.org/animals/capybara"
+        },
+        {
+          "title": "San Diego Zoo: Red Panda",
+          "url": "https://animals.sandiegozoo.org/animals/red-panda"
+        },
+        {
+          "title": "San Diego Zoo: Meerkat",
+          "url": "https://animals.sandiegozoo.org/animals/meerkat"
+        },
+        {
+          "title": "San Diego Zoo: Giraffe",
+          "url": "https://animals.sandiegozoo.org/animals/giraffe"
+        },
+        {
+          "title": "San Diego Zoo: Fennec Fox",
+          "url": "https://animals.sandiegozoo.org/animals/fennec-fox"
+        },
+        {
+          "title": "San Diego Zoo: Otter",
+          "url": "https://animals.sandiegozoo.org/animals/otter"
+        },
+        {
+          "title": "San Diego Zoo: Cheetah",
+          "url": "https://animals.sandiegozoo.org/animals/cheetah"
+        },
+        {
+          "title": "San Diego Zoo: Giant Panda",
+          "url": "https://animals.sandiegozoo.org/animals/giant-panda"
+        },
+        {
+          "title": "San Diego Zoo: Orangutan",
+          "url": "https://animals.sandiegozoo.org/animals/orangutan"
+        },
+        {
+          "title": "San Diego Zoo: Hippo",
+          "url": "https://animals.sandiegozoo.org/animals/hippo"
+        },
+        {
+          "title": "San Diego Zoo: Polar Bear",
+          "url": "https://animals.sandiegozoo.org/animals/polar-bear"
+        },
+        {
+          "title": "San Diego Zoo: Platypus",
+          "url": "https://animals.sandiegozoo.org/animals/platypus"
+        },
+        {
+          "title": "San Diego Zoo: Sea Lion",
+          "url": "https://animals.sandiegozoo.org/animals/sea-lion"
+        },
+        {
+          "title": "San Diego Zoo: Snow Leopard",
+          "url": "https://animals.sandiegozoo.org/animals/snow-leopard"
+        },
+        {
+          "title": "San Diego Zoo: Komodo Dragon",
+          "url": "https://animals.sandiegozoo.org/animals/komodo-dragon"
+        }
+      ],
+      "items": [
+        {
+          "name": "Capybara",
+          "summary": "The capybara is a large rodent that lives near water in South America. Its sturdy body, slightly webbed feet, and high placed eyes suit life beside rivers and wetlands. Capybaras eat plants and often live in groups, spending time both on land and in the water.",
+          "points": [
+            "Eyes and nostrils near the top of the head help it watch while submerged.",
+            "Group living provides more animals to watch for nearby dangers together."
+          ],
+          "title": "Capybara Life Near Water"
+        },
+        {
+          "name": "Red Panda",
+          "summary": "The red panda is a small mammal with reddish fur and a long, ringed tail. It inhabits forested mountain areas in Asia and spends much of its time in trees. Bamboo is an important food, while claws and a balancing tail help it move among branches.",
+          "points": [
+            "Red pandas belong to their own animal family rather than the bear family.",
+            "Their thick fur and bushy tails help them cope with cool conditions."
+          ],
+          "title": "Red Panda Forest Life"
+        },
+        {
+          "name": "Meerkat",
+          "summary": "The meerkat is a small member of the mongoose family that lives in southern Africa. Groups use underground burrows for shelter and rest. While some animals search for food, another may stand upright to watch the surroundings. Warning calls help the group respond when a predator approaches.",
+          "points": [
+            "Burrow systems provide shelter from predators and extremes of outdoor temperature.",
+            "Meerkats use different alarm calls to warn others about approaching dangers."
+          ],
+          "title": "Meerkat Burrows and Warning Calls"
+        },
+        {
+          "name": "Giraffe",
+          "summary": "The giraffe is an African mammal recognized by its long neck, long legs, and patterned coat. Its height allows it to reach leaves above many other plant eaters. Giraffes use a flexible tongue when feeding, and their distinctive body shape is adapted to moving through open woodland.",
+          "points": [
+            "Giraffes are the tallest living land animals, with a long reaching neck.",
+            "Their coats carry patches that vary in shape and pattern among animals."
+          ],
+          "title": "Giraffe Height and Feeding"
+        },
+        {
+          "name": "Fennec Fox",
+          "summary": "The fennec fox is a small desert fox native to North Africa. Its large ears help it detect prey and release body heat. Sandy colored fur blends with its surroundings. It usually rests in a burrow during the day and searches for food after temperatures begin to fall.",
+          "points": [
+            "Fur on the feet provides protection when the fox crosses hot sand.",
+            "Its varied diet includes insects, small animals, and material from plants."
+          ],
+          "title": "Fennec Fox Desert Adaptations"
+        },
+        {
+          "name": "River Otter",
+          "summary": "River otters are mammals adapted to finding food in rivers, lakes, and other freshwater habitats. Their streamlined bodies, strong tails, and swimming feet help them move underwater. A dense coat helps protect them from cold water, while sensitive whiskers provide information about movement close to the face.",
+          "points": [
+            "Otters regularly groom their fur to keep its insulating layers working effectively.",
+            "Their meals often include fish and other small animals found in water."
+          ],
+          "title": "River Otter Freshwater Habitats"
+        },
+        {
+          "name": "Cheetah",
+          "summary": "The cheetah is a slender cat known for running quickly during short hunts. Its long legs and flexible body support rapid movement across open ground. A spotted coat helps it blend with vegetation. Rather than sustaining a long chase, a hunting cheetah approaches before making a fast pursuit.",
+          "points": [
+            "A long tail helps the cheetah balance when changing direction during pursuit.",
+            "Young cheetahs learn hunting skills while spending time with their mother."
+          ],
+          "title": "Cheetah Speed and Hunting"
+        },
+        {
+          "name": "Giant Panda",
+          "summary": "The giant panda is a bear with a black and white coat that lives in mountain forests in China. Bamboo forms most of its diet. Strong jaws help it process tough plant material, and its front paws are adapted to holding stems while it strips and chews them.",
+          "points": [
+            "Giant pandas can climb trees, including when young animals seek safety.",
+            "Scent marks help pandas exchange information without meeting each other directly."
+          ],
+          "title": "Giant Panda Bamboo Diet"
+        },
+        {
+          "name": "Orangutan",
+          "summary": "The orangutan is a great ape with reddish hair and long arms. It lives in tropical forests on the islands of Borneo and Sumatra. Grasping hands and feet help it travel among branches. Much of its food comes from trees, and fruit is an important part of its diet.",
+          "points": [
+            "Orangutans have no tail and use strong limbs to move through trees.",
+            "Young orangutans spend years with their mothers while learning forest survival skills."
+          ],
+          "title": "Orangutan Life in Trees"
+        },
+        {
+          "name": "Hippopotamus",
+          "summary": "The common hippopotamus is a large African mammal closely associated with rivers and lakes. It spends much of the day in water, which helps protect its skin from drying. At night it commonly leaves the water to graze. Its eyes and nostrils sit high on its broad head.",
+          "points": [
+            "Hippos can keep much of their body underwater while watching their surroundings.",
+            "Despite their heavy appearance, hippos can move quickly and defend territory forcefully."
+          ],
+          "title": "Hippopotamus Resting and Grazing"
+        },
+        {
+          "name": "Polar Bear",
+          "summary": "The polar bear is a large bear adapted to Arctic environments. Thick fur and a layer of fat help it retain heat. It uses sea ice as an important platform for hunting seals. Broad paws assist with travel over ice and also help the bear move through water.",
+          "points": [
+            "Polar bears can swim between areas of ice and nearby coastal land.",
+            "Mothers use sheltered dens to give birth and protect very young cubs."
+          ],
+          "title": "Polar Bear Hunting From Ice"
+        },
+        {
+          "name": "Platypus",
+          "summary": "The platypus is an Australian mammal that lays eggs and spends time in freshwater habitats. It has a broad bill, webbed feet, and a flattened tail. When searching underwater, it uses the bill to detect prey. It gathers small aquatic animals and returns to the surface to eat.",
+          "points": [
+            "A platypus rests in a burrow dug into a riverbank or streambank.",
+            "Its food includes insect larvae, worms, and small animals such as crustaceans."
+          ],
+          "title": "Platypus Finding Food Underwater"
+        },
+        {
+          "name": "Sea Lion",
+          "summary": "Sea lions are marine mammals that feed in the ocean and rest on land. They have visible outer ears and strong front flippers used for swimming. Their rear flippers can turn beneath the body, helping them move on shore. Fish and squid are common foods for many sea lions.",
+          "points": [
+            "Sea lions must return to the surface to breathe air through their nostrils.",
+            "Groups often gather on beaches or rocks to rest and raise young."
+          ],
+          "title": "Sea Lion Swimming Adaptations"
+        },
+        {
+          "name": "Snow Leopard",
+          "summary": "The snow leopard is a mountain cat with thick fur and a long tail. It lives in rocky areas of Central Asia, where its pale patterned coat helps it blend with the landscape. Broad paws assist travel over snow, while a flexible body supports climbing and jumping across steep ground.",
+          "points": [
+            "The long tail helps the cat maintain balance while crossing rocky slopes.",
+            "Its prey includes mountain sheep, wild goats, and other available animals."
+          ],
+          "title": "Snow Leopard Mountain Adaptations"
+        },
+        {
+          "name": "Komodo Dragon",
+          "summary": "The Komodo dragon is a large monitor lizard native to several Indonesian islands. It has strong limbs, a muscular tail, and a forked tongue that helps it investigate scents. Adults feed on other animals and may also eat carcasses. Young dragons spend considerable time in trees for protection.",
+          "points": [
+            "Komodo dragons use burrows and shade to shelter from changing outdoor temperatures.",
+            "Their island habitats include wooded areas, hills, and stretches of open grassland."
+          ],
+          "title": "Komodo Dragon Feeding and Shelter"
+        }
+      ]
+    },
+    {
+      "topic": "Nature",
+      "sources": [
+        {
+          "title": "NSW National Parks: Rainforest environments",
+          "url": "https://www.nationalparks.nsw.gov.au/environments/rainforest-environments"
+        },
+        {
+          "title": "National Park Service: Waterfalls and Gorges",
+          "url": "https://www.nps.gov/subjects/waterfalls/index.htm"
+        },
+        {
+          "title": "NOAA: What is a wetland?",
+          "url": "https://oceanservice.noaa.gov/facts/wetland.html"
+        },
+        {
+          "title": "National Park Service: Sand Dunes",
+          "url": "https://home.nps.gov/deva/learn/nature/sand-dunes.htm"
+        },
+        {
+          "title": "National Park Service: Volcanoes, Craters and Lava Flows",
+          "url": "https://www.nps.gov/subjects/volcanoes/index.htm"
+        },
+        {
+          "title": "National Park Service: Fire and Grazing in the Prairie",
+          "url": "https://www.nps.gov/tapr/learn/nature/fire-and-grazing-in-the-prairie.htm"
+        },
+        {
+          "title": "National Park Service: Cave Geology in Depth",
+          "url": "https://www.nps.gov/grba/planyourvisit/cave-geology-in-depth.htm"
+        },
+        {
+          "title": "NOAA: What are corals?",
+          "url": "https://oceanservice.noaa.gov/education/tutorial_corals/coral01_intro.html"
+        },
+        {
+          "title": "USGS: Glaciers and Icecaps",
+          "url": "https://www.usgs.gov/water-science-school/science/glaciers-and-icecaps"
+        },
+        {
+          "title": "National Park Service: Delta Landforms",
+          "url": "https://home.nps.gov/articles/delta-landforms.htm"
+        },
+        {
+          "title": "NOAA: What is a mangrove forest?",
+          "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
+        },
+        {
+          "title": "National Park Service: Canyons and Canyonlands",
+          "url": "https://www.nps.gov/subjects/canyons/index.htm"
+        },
+        {
+          "title": "NOAA: What is a tide pool?",
+          "url": "https://oceanservice.noaa.gov/facts/tide-pool.html"
+        },
+        {
+          "title": "National Park Service: Tectonic Landforms and Mountain Building",
+          "url": "https://home.nps.gov/subjects/geology/tectonic-landforms.htm"
+        },
+        {
+          "title": "US EPA: Basic Information about Estuaries",
+          "url": "https://www.epa.gov/nep/basic-information-about-estuaries"
+        }
+      ],
+      "items": [
+        {
+          "name": "Rainforests",
+          "summary": "Rainforests are wooded environments with dense tree cover and many kinds of living things. Their overlapping branches create a canopy that shades the ground below. Different rainforest layers provide different conditions for plants, while fallen leaves return material to the forest floor.",
+          "points": [
+            "A closed canopy helps create a shaded environment beneath the trees.",
+            "Rainforest habitats support many plant species within a relatively small area."
+          ],
+          "title": "Rainforests Canopy and Forest Life"
+        },
+        {
+          "name": "Waterfalls",
+          "summary": "Waterfalls occur where flowing water drops over a steep change in the landscape. The falling water can wear away rock and move loose material downstream. Differences in the strength of rock layers help shape the ledges, pools, and channels around a waterfall.",
+          "points": [
+            "Waterfall shapes depend partly on the rocks that water flows across.",
+            "The amount of flowing water can change with rainfall and seasons."
+          ],
+          "title": "Waterfalls Shape Rocky Landscapes"
+        },
+        {
+          "name": "Wetlands",
+          "summary": "Wetlands are places where water covers the ground or keeps the soil saturated for part of the year. Marshes and swamps are familiar examples. Their plants and soils provide habitat, slow moving water, and can help trap sediment before it reaches nearby waterways.",
+          "points": [
+            "Some wetlands remain flooded while others become drier during certain seasons.",
+            "Wetland plants and soils can reduce the movement of floodwater downstream."
+          ],
+          "title": "Wetlands Filter and Slow Water"
+        },
+        {
+          "name": "Sand Dunes",
+          "summary": "Sand dunes are mounds or ridges built when wind moves and deposits grains of sand. They form where sand is available and conditions allow it to collect. Dunes occur along some coasts and in deserts, and their shapes reflect wind and surrounding landforms.",
+          "points": [
+            "A dune needs available sand, moving wind, and somewhere to accumulate.",
+            "Changes in wind direction can gradually alter a dune's overall shape."
+          ],
+          "title": "Sand Dunes Shaped by Wind"
+        },
+        {
+          "name": "Volcanoes",
+          "summary": "Volcanoes are openings where molten rock, gases, and other material can reach Earth's surface. Repeated eruptions may build hills or mountains around the opening. Eruptions differ in character, and the landforms they create include broad slopes, steep cones, craters, and fields of cooled lava.",
+          "points": [
+            "Molten rock is called lava once it reaches the Earth's surface.",
+            "Different eruption styles produce a variety of volcanic shapes and deposits."
+          ],
+          "title": "Volcanoes Lava and Landforms"
+        },
+        {
+          "name": "Grasslands",
+          "summary": "Grasslands are landscapes where grasses and other low plants dominate the vegetation. Rainfall, grazing, and fire can influence how these environments develop. Grasslands differ across regions, but their open spaces and extensive plant roots support communities adapted to life with relatively few trees.",
+          "points": [
+            "Grasslands can differ in plant height, rainfall, soil, and seasonal patterns.",
+            "Grazing and natural fire help shape many grassland environments over time."
+          ],
+          "title": "Grasslands Fire and Grazing"
+        },
+        {
+          "name": "Caves",
+          "summary": "Caves are natural openings in rock that extend beneath the ground. Some develop as water slowly dissolves rock, while others form through volcanic activity or erosion. Cave passages can connect to underground water systems, and their darkness creates conditions unlike those at the surface.",
+          "points": [
+            "Water can gradually enlarge cracks in certain rocks to form passages.",
+            "Caves vary widely in their size, shape, moisture, and geological origins."
+          ],
+          "title": "Caves Water and Rock"
+        },
+        {
+          "name": "Coral Reefs",
+          "summary": "Coral reefs are marine structures built largely from the hard skeletons of small animals called coral polyps. Over time, their accumulated skeletons create complex underwater spaces. These spaces support many other organisms, making reefs important habitats rather than simply collections of colorful underwater rocks.",
+          "points": [
+            "Reef building corals produce hard skeletons from a material called calcium carbonate.",
+            "The spaces within reefs provide shelter for many different marine organisms."
+          ],
+          "title": "Coral Reefs Support Marine Life"
+        },
+        {
+          "name": "Glaciers",
+          "summary": "Glaciers are large bodies of land ice that move slowly under their own weight. They develop where accumulated snow becomes compressed into ice over time. As they move, glaciers carry rock and sediment, reshape valleys, and store water that may later enter rivers through melting.",
+          "points": [
+            "Glacier ice forms from snow that accumulates and becomes increasingly compressed.",
+            "Moving glaciers can scrape the ground and transport pieces of rock."
+          ],
+          "title": "Glaciers Reshape Valleys"
+        },
+        {
+          "name": "River Deltas",
+          "summary": "River deltas are deposits of sediment that build near some river mouths. They develop when a river supplies material faster than waves and currents remove it. Delta channels may divide into branches, and their changing deposits create a mixture of land and shallow water.",
+          "points": [
+            "A river carries sediment that can accumulate near its meeting place.",
+            "Waves, tides, and sediment supply influence the shape of a delta."
+          ],
+          "title": "River Deltas Sediment Deposits"
+        },
+        {
+          "name": "Mangroves",
+          "summary": "Mangroves are trees and shrubs adapted to life along many tropical and subtropical coastlines. They grow in environments affected by salty water and changing tides. Their tangled roots help hold sediment in place and create sheltered spaces where many coastal organisms can live.",
+          "points": [
+            "Mangrove roots help stabilize coastal sediment in areas affected by tides.",
+            "These coastal forests provide sheltered habitat around their roots and branches."
+          ],
+          "title": "Mangroves Stabilize Coastal Sediment"
+        },
+        {
+          "name": "Canyons",
+          "summary": "Canyons are deep valleys with steep sides, shaped over time by erosion. Rivers are an important force in cutting many canyons, while weathering helps change their walls. Exposed rock layers can reveal parts of the landscape's geological history as erosion removes material above them.",
+          "points": [
+            "Flowing rivers can gradually cut downward through rock to deepen valleys.",
+            "Canyon walls often expose layers that formed at different geological times."
+          ],
+          "title": "Canyons Reveal Rock Layers"
+        },
+        {
+          "name": "Tidal Pools",
+          "summary": "Tidal pools are pockets of seawater left among coastal rocks as the tide falls. They become temporarily separated from the wider sea until water returns. Conditions within these pools can change as sunlight, rainfall, waves, and evaporation affect their temperature and salt content.",
+          "points": [
+            "Water remains trapped in rocky hollows after the surrounding tide retreats.",
+            "Pool inhabitants experience changing conditions as tides expose and refill habitats."
+          ],
+          "title": "Tidal Pools Changing Conditions"
+        },
+        {
+          "name": "Mountains",
+          "summary": "Mountains are elevated landforms that rise above the surrounding landscape. Many form as Earth's crust is pushed, folded, or broken, while others grow through volcanic activity. Wind, water, and ice reshape their slopes, creating ridges and valleys as rock is gradually worn away.",
+          "points": [
+            "Different geological processes produce mountains with a variety of visible shapes.",
+            "Weathering and erosion continue changing mountain landscapes after their initial formation."
+          ],
+          "title": "Mountains Formation and Erosion"
+        },
+        {
+          "name": "Estuaries",
+          "summary": "Estuaries are coastal waters where freshwater from land meets saltwater from the sea. Their conditions change with river flow and the movement of tides. Nearby marshes, mudflats, and other habitats support varied communities, while the surrounding land influences the water and sediment entering them.",
+          "points": [
+            "Estuary water often contains a changing mixture of freshwater and seawater.",
+            "Rivers and tides influence the habitats found within and around estuaries."
+          ],
+          "title": "Estuaries Mix Freshwater and Seawater"
+        }
+      ]
+    },
+    {
+      "topic": "Science",
+      "sources": [
+        {
+          "title": "OpenStax Physics: Magnetic Fields, Field Lines, and Force",
+          "url": "https://openstax.org/books/physics/pages/20-1-magnetic-fields-field-lines-and-force"
+        },
+        {
+          "title": "NASA JPL: Gravity and Gravitational Field",
+          "url": "https://podaac.jpl.nasa.gov/gravity"
+        },
+        {
+          "title": "OpenStax Physics: Speed of Sound, Frequency, and Wavelength",
+          "url": "https://openstax.org/books/physics/pages/14-1-speed-of-sound-frequency-and-wavelength"
+        },
+        {
+          "title": "Department of Energy: How Does Solar Energy Work?",
+          "url": "https://www.energy.gov/cmei/systems/how-does-solar-energy-work"
+        },
+        {
+          "title": "OpenStax Physics: The Electromagnetic Spectrum",
+          "url": "https://openstax.org/books/physics/pages/15-1-the-electromagnetic-spectrum"
+        },
+        {
+          "title": "NASA Space Place: How Do Telescopes Work?",
+          "url": "https://spaceplace.nasa.gov/telescopes/en/"
+        },
+        {
+          "title": "OpenStax Physics: Series Circuits",
+          "url": "https://openstax.org/books/physics/pages/19-2-series-circuits"
+        },
+        {
+          "title": "NASA Space Place: What Is an Exoplanet?",
+          "url": "https://spaceplace.nasa.gov/all-about-exoplanets/en/"
+        },
+        {
+          "title": "OpenStax Physics: Simple Machines",
+          "url": "https://openstax.org/books/physics/pages/9-3-simple-machines"
+        },
+        {
+          "title": "NASA STEM: How Do Batteries Store and Transfer Energy?",
+          "url": "https://www.nasa.gov/wp-content/uploads/2018/07/x-57-how-do-batteries-store-and-transfer-energy.pdf?linkId=751021125"
+        },
+        {
+          "title": "OpenStax Physics: Reflection",
+          "url": "https://openstax.org/books/physics/pages/16-1-reflection"
+        },
+        {
+          "title": "Whipple Museum, University of Cambridge: Parts of the Microscope",
+          "url": "https://www.whipplemuseum.cam.ac.uk/explore-whipple-collections/microscopes/parts-microscope"
+        },
+        {
+          "title": "OpenStax Physics: Newton's First Law of Motion",
+          "url": "https://openstax.org/books/physics/pages/4-2-newtons-first-law-of-motion-inertia"
+        },
+        {
+          "title": "OpenStax Physics: Lenses",
+          "url": "https://openstax.org/books/physics/pages/16-3-lenses"
+        },
+        {
+          "title": "NASA Space Place: What Is a Satellite?",
+          "url": "https://spaceplace.nasa.gov/satellite/en/"
+        },
+        {
+          "title": "NASA Cosmicopia: General Physics Questions",
+          "url": "https://science.gsfc.nasa.gov/attic/cosmicopia.gsfc.nasa.gov/qa_gp_b.html"
+        }
+      ],
+      "items": [
+        {
+          "name": "Magnets",
+          "summary": "Magnets produce magnetic fields that can attract certain materials and act on other magnets. A familiar bar magnet has a north pole and a south pole. Depending on how two magnets are positioned, their poles can pull toward each other or push apart.",
+          "points": [
+            "Opposite magnetic poles attract, while matching poles push away from one another.",
+            "Materials such as iron can respond strongly to a nearby magnet."
+          ],
+          "title": "Magnets Attract and Repel"
+        },
+        {
+          "name": "Gravity",
+          "summary": "Gravity is the attraction associated with objects that have mass. It keeps objects near Earth's surface and influences the paths of moons and planets. The strength of gravitational attraction depends on mass and distance, so it changes when the objects or their separation change.",
+          "points": [
+            "A larger mass produces a stronger gravitational attraction at the same distance.",
+            "Gravity helps guide the orbital motion of planets, moons, and spacecraft."
+          ],
+          "title": "Gravity Mass and Attraction"
+        },
+        {
+          "name": "Sound Waves",
+          "summary": "Sound waves begin with vibrations that disturb a material such as air, water, or a solid. These disturbances pass energy between neighboring particles. The particles move around their resting positions rather than traveling all the way from the sound source to the listener.",
+          "points": [
+            "Sound needs a material through which its vibrations can be transmitted.",
+            "A sound's frequency influences whether its pitch seems high or low."
+          ],
+          "title": "Sound Waves Transfer Energy"
+        },
+        {
+          "name": "Solar Panels",
+          "summary": "Solar panels contain cells that convert energy from sunlight into electrical energy. Light absorbed by these cells helps produce an electric current. Panels can be connected into larger groups, supplying energy for devices and buildings when suitable sunlight reaches their exposed surfaces during use.",
+          "points": [
+            "Photovoltaic cells transform light energy into electricity without burning a fuel.",
+            "The amount of available sunlight influences how much electricity panels generate."
+          ],
+          "title": "Solar Panels Generate Electricity"
+        },
+        {
+          "name": "Light Waves",
+          "summary": "Light is a form of electromagnetic radiation that carries energy. Visible light is the part that human eyes can detect, while other electromagnetic waves lie beyond that range. Light can travel through empty space and can change direction when it interacts with materials.",
+          "points": [
+            "Different wavelengths within the visible spectrum are perceived as different spectral colors.",
+            "Unlike sound, light can travel across the empty space between worlds."
+          ],
+          "title": "Light Waves and Visible Colors"
+        },
+        {
+          "name": "Telescopes",
+          "summary": "Telescopes collect light to help observers study distant objects. Optical designs use lenses, mirrors, or combinations of both to form images. Gathering more light can reveal objects that appear faint, while careful focusing helps bring distant features into a clearer view for observation.",
+          "points": [
+            "A telescope's main lens or mirror gathers light from distant objects.",
+            "Some telescopes observe from space, above much of Earth's interfering atmosphere."
+          ],
+          "title": "Telescopes Reveal Distant Objects"
+        },
+        {
+          "name": "Electric Circuits",
+          "summary": "Electric circuits connect components so that electric charge can move through a complete path. A simple circuit may include a battery, wires, a switch, and a lamp. Changing a connection can interrupt the current, while different arrangements change how components share the electrical supply.",
+          "points": [
+            "A closed circuit provides a continuous path for an electric current.",
+            "Opening a simple switch breaks the path and stops its current."
+          ],
+          "title": "Electric Circuits and Current"
+        },
+        {
+          "name": "Planets",
+          "summary": "The planets in our solar system travel around the Sun along repeating paths called orbits. They differ in size, composition, atmosphere, and distance from the Sun. Astronomers also study planets orbiting other stars, using observations to learn about the properties of these distant worlds.",
+          "points": [
+            "Planets orbiting stars beyond our solar system are commonly called exoplanets.",
+            "Astronomers can detect some distant planets through changes in their stars."
+          ],
+          "title": "Planets Orbits and Composition"
+        },
+        {
+          "name": "Levers",
+          "summary": "Levers are simple machines consisting of a rigid part that turns around a support called a fulcrum. Applying a force at one position can move a load elsewhere. The distances between the support, effort, and load determine how the lever changes the required force.",
+          "points": [
+            "A lever's arrangement can trade a longer movement for a smaller force.",
+            "Seesaws and crowbars are everyday examples of objects using lever principles."
+          ],
+          "title": "Levers Force and Fulcrums"
+        },
+        {
+          "name": "Batteries",
+          "summary": "Batteries store energy through chemical processes and supply electrical energy to a connected circuit. Their internal materials help move charge between terminals through the external path. Rechargeable batteries can have their stored energy restored, while other types are intended to be replaced after use.",
+          "points": [
+            "A battery supplies energy when connected to a suitable complete circuit.",
+            "Rechargeable batteries use electrical energy to restore their chemical energy storage."
+          ],
+          "title": "Batteries Store Chemical Energy"
+        },
+        {
+          "name": "Mirrors",
+          "summary": "Mirrors form images by reflecting light from a smooth surface. A flat mirror preserves the overall proportions of the reflected scene, while curved mirrors can change how large objects appear. The shape of the reflecting surface determines how the reflected rays are directed.",
+          "points": [
+            "Reflected light leaves a smooth surface at a predictable matching angle.",
+            "Curved mirrors can bring reflected rays together or spread them apart."
+          ],
+          "title": "Mirrors Reflect Light"
+        },
+        {
+          "name": "Microscopes",
+          "summary": "Light microscopes use lenses to reveal details that are difficult to see with unaided eyes. A specimen is placed where light can illuminate it, and a focusing mechanism sharpens the image. Different lens arrangements provide different views and levels of enlargement for careful examination.",
+          "points": [
+            "A simple light microscope uses a lens to enlarge nearby details.",
+            "Compound light microscopes combine lenses to produce a more enlarged view."
+          ],
+          "title": "Microscopes Reveal Small Details"
+        },
+        {
+          "name": "Friction",
+          "summary": "Friction is a force that resists relative sliding, or the tendency to slide, between contacting surfaces. It helps shoes grip the ground and allows brakes to slow wheels. Its strength depends on the surfaces and the forces pressing them together during their contact.",
+          "points": [
+            "Friction can prevent slipping even when the contacting objects remain still.",
+            "Sliding friction can transfer some motion energy into heating the surfaces."
+          ],
+          "title": "Friction Resists Sliding Between Surfaces"
+        },
+        {
+          "name": "Optical Lenses",
+          "summary": "Optical lenses are transparent objects shaped to change the direction of passing light. Their curved surfaces can bring light rays together or spread them apart. Lenses are used in cameras, glasses, and other instruments to form images or change how an object is viewed.",
+          "points": [
+            "A lens changes a light ray's direction through a process called refraction.",
+            "Different lens shapes can produce different image sizes and focusing behavior."
+          ],
+          "title": "Optical Lenses Redirect Light"
+        },
+        {
+          "name": "Satellites",
+          "summary": "Satellites are objects that move in orbit around another body in space. Some are natural, such as moons, while others are built and launched by people. Artificial satellites carry equipment that can observe Earth, study space, relay communications, or help determine positions on Earth.",
+          "points": [
+            "An artificial satellite usually needs a power source and communication equipment.",
+            "Different satellite orbits suit different tasks, including mapping and weather observation."
+          ],
+          "title": "Satellites Natural and Artificial"
+        }
+      ]
+    },
+    {
+      "topic": "History",
+      "sources": [
+        {
+          "title": "The Printing Trade — Museum of Work",
+          "url": "https://www.shmh.de/exhibitions/the-printing-trade-in-the-museum-of-work/"
+        },
+        {
+          "title": "Newcomen Atmospheric Engine — Science Museum Group",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co50900/newcomen-atmospheric-engine-atmospheric-steam-engine"
+        },
+        {
+          "title": "Invention of the Telegraph — Library of Congress",
+          "url": "https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/"
+        },
+        {
+          "title": "Inventions and Innovations — Library of Congress",
+          "url": "https://www.loc.gov/classroom-materials/inventions-and-innovations/"
+        },
+        {
+          "title": "Was the Patent Application for the Typewriter Handwritten? — Smithsonian",
+          "url": "https://invention.si.edu/invention-stories/was-patent-application-typewriter-handwritten"
+        },
+        {
+          "title": "More for Everyone — National Museum of American History",
+          "url": "https://www.americanhistory.si.edu/explore/exhibitions/object-project/online/ready-wear/sewing-machine"
+        },
+        {
+          "title": "The Phonograph — Thomas Edison National Historical Park",
+          "url": "https://www.nps.gov/edis/learn/kidsyouth/the-phonograph.htm"
+        },
+        {
+          "title": "The Safety Bicycle and Beyond — National Museum of American History",
+          "url": "https://americanhistory.si.edu/collections/object-groups/si-bikes/si-bikes-safety"
+        },
+        {
+          "title": "Camera Obscura — History of Science Museum",
+          "url": "https://www.hsm.ox.ac.uk/camera-obscura"
+        },
+        {
+          "title": "The History of the Light Bulb — Department of Energy",
+          "url": "https://www.energy.gov/articles/history-light-bulb"
+        },
+        {
+          "title": "Connecting the World — Science Museum",
+          "url": "https://artsandculture.google.com/story/connecting-the-world-science-museum/yQXBxU-Zxjkh2Q?hl=en"
+        },
+        {
+          "title": "Compass — The Mariners' Museum and Park",
+          "url": "https://exploration.marinersmuseum.org/object/compass/"
+        },
+        {
+          "title": "Time and Navigation Timeline — Smithsonian",
+          "url": "https://timeandnavigation.si.edu/timeline2"
+        },
+        {
+          "title": "Rocket Locomotive — Science Museum Group",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co26704"
+        },
+        {
+          "title": "Money Gallery Guide — British Museum",
+          "url": "https://www.britishmuseum.org/sites/default/files/2021-05/Money_Gallery_LPG_2020_Room_68.pdf"
+        }
+      ],
+      "items": [
+        {
+          "name": "Printing Press",
+          "summary": "A printing press transfers ink from a prepared surface onto paper. In traditional letterpress printing, workers arrange separate pieces of type to form a page. Presses helped printers produce repeated copies of books and other documents, changing how written information was shared.",
+          "points": [
+            "Movable type lets printers rearrange individual letters for different pages and projects.",
+            "Mechanical presses gradually changed the work of producing books, newspapers, and leaflets."
+          ],
+          "title": "Printing Press and Movable Type"
+        },
+        {
+          "name": "Steam Engine",
+          "summary": "A steam engine uses steam and changes in pressure to produce movement. Early engines helped pump water from mines, while later designs powered many kinds of machinery. Their development connects the history of mining, engineering, and the growing use of mechanical power.",
+          "points": [
+            "Many historical engines moved a piston inside a cylinder to operate machinery.",
+            "Surviving museum engines reveal changes in materials, construction, and mechanical design."
+          ],
+          "title": "Steam Engine Mechanical Power"
+        },
+        {
+          "name": "Telegraph",
+          "summary": "An electrical telegraph sends coded messages through wires using electrical signals. Operators could communicate over long distances without transporting a written letter. Different inventors developed different systems, and telegraph networks became important tools for sharing news and coordinating activities across distant places.",
+          "points": [
+            "Morse code represents letters and numbers through combinations of short and long signals.",
+            "Earlier visual signaling systems used arrangements of flags, lights, or moving arms."
+          ],
+          "title": "Telegraph Signals Carry Messages"
+        },
+        {
+          "name": "Telephone",
+          "summary": "The telephone made it possible to carry spoken conversations over a distance. Early instruments converted sound into electrical signals and changed those signals back into sound at the receiving end. Experimental work on electrical communication helped develop a technology that connected homes and businesses.",
+          "points": [
+            "A telephone transmits speech rather than requiring an operator to decode messages.",
+            "Historical notebooks and surviving instruments document experiments with transmitting the human voice."
+          ],
+          "title": "Telephone Conversations Across Distances"
+        },
+        {
+          "name": "Typewriter",
+          "summary": "A typewriter produces printed characters when a person presses keys on a keyboard. Mechanical designs bring a piece of type against paper, usually through an inked ribbon. Developing reliable machines required ways to position letters, move the paper, and prevent moving parts from jamming.",
+          "points": [
+            "An inked ribbon transfers the shape of each selected character onto paper.",
+            "Paper moves across the machine so successive letters form a line of text."
+          ],
+          "title": "Typewriter Keys Produce Text"
+        },
+        {
+          "name": "Sewing Machine",
+          "summary": "A sewing machine joins pieces of material by making repeated stitches with thread. It became an important tool in clothing production as manufacturers organized work into separate tasks. Workers could cut fabric to patterns and use machines to stitch the prepared pieces into garments.",
+          "points": [
+            "Machines supported the production of multiple garments based on the same patterns.",
+            "Factory workers often assembled particular parts instead of making each complete garment."
+          ],
+          "title": "Sewing Machine Clothing Production"
+        },
+        {
+          "name": "Phonograph",
+          "summary": "A phonograph records and reproduces sound through a physical recording surface. Early versions used a rotating cylinder, with a needle responding to vibrations. Later recordings also appeared on discs. These machines allowed voices and music to be preserved and heard again after a performance ended.",
+          "points": [
+            "Sound vibrations moved a needle that marked a groove in the recording surface.",
+            "A playback needle followed the recorded groove to reproduce the captured sounds."
+          ],
+          "title": "Phonograph Recording and Playback"
+        },
+        {
+          "name": "Bicycle",
+          "summary": "The bicycle developed through many designs before a familiar arrangement became common. Safety bicycles used wheels of similar size and a chain drive. Improvements in tires and brakes helped make cycling practical for travel and recreation, while bicycle manufacturing also influenced other transport technologies.",
+          "points": [
+            "Pedals, gears, and a chain helped transfer the rider's effort to a wheel.",
+            "Historical bicycles show how designers changed wheels, frames, tires, and braking systems."
+          ],
+          "title": "Bicycle Design Through History"
+        },
+        {
+          "name": "Camera",
+          "summary": "The camera developed from devices that projected images into a dark space. A camera obscura could help artists observe or trace a scene, but it did not preserve the image itself. Photography combined image projection with materials that changed when exposed to light.",
+          "points": [
+            "A lens could produce a brighter image inside an enclosed darkened box.",
+            "Light sensitive recording materials made it possible to preserve a projected scene."
+          ],
+          "title": "Camera Origins in Image Projection"
+        },
+        {
+          "name": "Light Bulb",
+          "summary": "The incandescent light bulb developed through experiments by many researchers and inventors. Its filament produces light when an electrical current heats it. Making useful lamps involved improving the filament, controlling conditions inside the glass bulb, and building systems that could supply electrical power.",
+          "points": [
+            "Early experiments tested different filament materials to improve useful operating life.",
+            "A lamp needed supporting equipment such as wiring, switches, and power supplies."
+          ],
+          "title": "Light Bulb Filament Improvements"
+        },
+        {
+          "name": "Radio",
+          "summary": "Radio developed as a way to communicate without a wire joining every sender and receiver. Broadcasting allowed speech and music to reach many listeners at home. Historical transmitters and receivers show how communication changed as electrical equipment became part of ordinary public and domestic life.",
+          "points": [
+            "A transmitter sends a signal that suitable receivers can turn into sound.",
+            "Broadcast programs brought shared listening experiences to people in many different homes."
+          ],
+          "title": "Radio Broadcasting Reaches Homes"
+        },
+        {
+          "name": "Compass",
+          "summary": "A magnetic compass helps a traveler determine direction using a magnetized needle. The needle aligns with Earth's magnetic field, giving a reference for navigation. For centuries, compasses have been important instruments for journeys, particularly when travelers could not rely on visible landmarks alone.",
+          "points": [
+            "A direction card allows the needle's position to be interpreted by the user.",
+            "Magnetic north provides a reference that navigators can use alongside other observations."
+          ],
+          "title": "Compass Needles Guide Navigation"
+        },
+        {
+          "name": "Mechanical Clock",
+          "summary": "A mechanical clock measures time through a controlled arrangement of moving parts. Weights or springs provide energy, while gears carry motion through the mechanism. Over time, clockmakers improved accuracy and developed different forms, making clocks important objects in public buildings and everyday routines.",
+          "points": [
+            "An escapement releases energy in controlled steps instead of all at once.",
+            "Surviving clock mechanisms show the skill involved in making gears and regulators."
+          ],
+          "title": "Mechanical Clock Gears and Timekeeping"
+        },
+        {
+          "name": "Locomotive",
+          "summary": "A locomotive provides the power that moves a train along railway tracks. Early steam locomotives combined boilers, cylinders, wheels, and other working parts. Designs such as Rocket brought several improvements together, illustrating how engineers developed machines suited to the expanding railway systems of the nineteenth century.",
+          "points": [
+            "Steam locomotive development involved improvements to boilers and the movement of exhaust.",
+            "Preserved railway engines help historians examine changing transport technology and engineering practices."
+          ],
+          "title": "Locomotive Design for Railways"
+        },
+        {
+          "name": "Paper Money",
+          "summary": "Paper money represents value through printed notes issued by an authority such as a bank. Historical notes used designs, names, and other details to identify their issuer. Printing plates and proposed designs show how banknotes were planned and how makers tried to discourage copying.",
+          "points": [
+            "Decorative details could help distinguish a bank's notes and make copying harder.",
+            "Surviving designs and printing plates reveal choices made before notes entered circulation."
+          ],
+          "title": "Paper Money Security Designs"
+        }
+      ]
+    }
+  ]
+}

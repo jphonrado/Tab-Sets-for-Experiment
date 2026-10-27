@@ -1,0 +1,19 @@
+{
+  "result": "PASS",
+  "server": "Installed VS Code Live Server 5.7.10",
+  "browser": "156.0.8078.48",
+  "normal_popup_blocking": true,
+  "original_failure_reproduced": "Only Study Start opened before the fix",
+  "manual_launch_combinations": 10,
+  "total_counts": [
+    6,
+    16
+  ],
+  "retry_without_duplicates": true,
+  "reset_closes_only_tracked_tabs": true,
+  "bulk_open_with_popups_allowed": true,
+  "nested_server_root": true,
+  "blocked_open_does_not_advance_progress": true,
+  "page_errors": [],
+  "note": "Browser popup permission remains necessary for bulk opening; the one-tab-per-click workflow works with normal blocking."
+}

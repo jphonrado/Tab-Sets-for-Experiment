@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "participant_pages": 75,
+  "topics": 5,
+  "targets_per_set": 5,
+  "trials_per_set": 6,
+  "low_visible_tabs": 6,
+  "high_visible_tabs": 16,
+  "checks": [
+    "unique titles and subject matches",
+    "five targets plus ten additional pages",
+    "unchanged low/high target relationship",
+    "paper trial sequences",
+    "shared icon and styles",
+    "participant role labels absent",
+    "all local assets present",
+    "word-count bounds",
+    "varied target ranks"
+  ],
+  "limits": "Structural checks do not establish equal task difficulty or actual macOS tab-title visibility."
+}

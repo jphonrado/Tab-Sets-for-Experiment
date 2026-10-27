@@ -1,0 +1,67 @@
+{
+  "Sports": {
+    "pages": 15,
+    "targets": 5,
+    "article_words": [
+      67,
+      71
+    ],
+    "title_characters": [
+      20,
+      32
+    ],
+    "mean_title_characters": 26.9
+  },
+  "Animals": {
+    "pages": 15,
+    "targets": 5,
+    "article_words": [
+      69,
+      74
+    ],
+    "title_characters": [
+      21,
+      33
+    ],
+    "mean_title_characters": 28.1
+  },
+  "Nature": {
+    "pages": 15,
+    "targets": 5,
+    "article_words": [
+      64,
+      67
+    ],
+    "title_characters": [
+      20,
+      37
+    ],
+    "mean_title_characters": 29.5
+  },
+  "Science": {
+    "pages": 15,
+    "targets": 5,
+    "article_words": [
+      65,
+      67
+    ],
+    "title_characters": [
+      21,
+      41
+    ],
+    "mean_title_characters": 29.7
+  },
+  "History": {
+    "pages": 15,
+    "targets": 5,
+    "article_words": [
+      65,
+      70
+    ],
+    "title_characters": [
+      28,
+      40
+    ],
+    "mean_title_characters": 32.2
+  }
+}

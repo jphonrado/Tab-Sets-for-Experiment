@@ -1,0 +1,17 @@
+{
+  "result": "PASS",
+  "browser": "155.0.8059.85",
+  "platform": "win32",
+  "pages_checked": 75,
+  "set_load_combinations_checked": 10,
+  "actual_launch_counts": [
+    6,
+    16
+  ],
+  "shared_asset_rendering": "passed",
+  "popup_blocked_recovery": "passed",
+  "page_errors": [],
+  "external_requests": [],
+  "narrow_viewport_overflow": false,
+  "limits": "Headless Windows Chrome verification. Native horizontal/vertical tab bars, macOS fonts, actual truncation, popup settings, and participant difficulty require a study-device pilot."
+}
