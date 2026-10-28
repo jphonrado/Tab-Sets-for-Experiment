@@ -1,31 +1,31 @@
-﻿set,topic,trial,target_id,path,subject,prompt
-1,Sports,1,P1,Content Set 1/content 1.2.html,Basketball,Find the page about Basketball. Go.
-1,Sports,2,P2,Content Set 1/content 1.5.html,Swimming,Find the page about Swimming. Go.
-1,Sports,3,P1,Content Set 1/content 1.2.html,Basketball,Find the page about Basketball. Go.
-1,Sports,4,P3,Content Set 1/content 1.8.html,Track Cycling,Find the page about Track Cycling. Go.
-1,Sports,5,P4,Content Set 1/content 1.11.html,Field Hockey,Find the page about Field Hockey. Go.
-1,Sports,6,P5,Content Set 1/content 1.14.html,Wrestling,Find the page about Wrestling. Go.
-2,Animals,1,P2,Content Set 2/content 2.5.html,Fennec Fox,Find the page about Fennec Fox. Go.
-2,Animals,2,P3,Content Set 2/content 2.8.html,Giant Panda,Find the page about Giant Panda. Go.
-2,Animals,3,P4,Content Set 2/content 2.11.html,Polar Bear,Find the page about Polar Bear. Go.
-2,Animals,4,P2,Content Set 2/content 2.5.html,Fennec Fox,Find the page about Fennec Fox. Go.
-2,Animals,5,P5,Content Set 2/content 2.14.html,Snow Leopard,Find the page about Snow Leopard. Go.
-2,Animals,6,P1,Content Set 2/content 2.2.html,Red Panda,Find the page about Red Panda. Go.
-3,Nature,1,P3,Content Set 3/content 3.8.html,Coral Reefs,Find the page about Coral Reefs. Go.
-3,Nature,2,P4,Content Set 3/content 3.11.html,Mangroves,Find the page about Mangroves. Go.
-3,Nature,3,P5,Content Set 3/content 3.14.html,Mountains,Find the page about Mountains. Go.
-3,Nature,4,P1,Content Set 3/content 3.2.html,Waterfalls,Find the page about Waterfalls. Go.
-3,Nature,5,P3,Content Set 3/content 3.8.html,Coral Reefs,Find the page about Coral Reefs. Go.
-3,Nature,6,P2,Content Set 3/content 3.5.html,Volcanoes,Find the page about Volcanoes. Go.
-4,Science,1,P4,Content Set 4/content 4.11.html,Mirrors,Find the page about Mirrors. Go.
-4,Science,2,P5,Content Set 4/content 4.14.html,Optical Lenses,Find the page about Optical Lenses. Go.
-4,Science,3,P1,Content Set 4/content 4.2.html,Gravity,Find the page about Gravity. Go.
-4,Science,4,P2,Content Set 4/content 4.5.html,Light Waves,Find the page about Light Waves. Go.
-4,Science,5,P3,Content Set 4/content 4.8.html,Planets,Find the page about Planets. Go.
-4,Science,6,P4,Content Set 4/content 4.11.html,Mirrors,Find the page about Mirrors. Go.
-5,History,1,P5,Content Set 5/content 5.14.html,Locomotive,Find the page about Locomotive. Go.
-5,History,2,P1,Content Set 5/content 5.2.html,Steam Engine,Find the page about Steam Engine. Go.
-5,History,3,P2,Content Set 5/content 5.5.html,Typewriter,Find the page about Typewriter. Go.
-5,History,4,P3,Content Set 5/content 5.8.html,Bicycle,Find the page about Bicycle. Go.
-5,History,5,P5,Content Set 5/content 5.14.html,Locomotive,Find the page about Locomotive. Go.
-5,History,6,P4,Content Set 5/content 5.11.html,Radio,Find the page about Radio. Go.
+﻿set,topic,trial,target_id,path,subject,title,prompt
+1,Sports,1,P1,Content Set 1/content 1.2.html,Basketball,Basketball Passing and Scoring,Target: Basketball Passing and Scoring.
+1,Sports,2,P2,Content Set 1/content 1.5.html,Swimming,Swimming Strokes and Relays,Target: Swimming Strokes and Relays.
+1,Sports,3,P1,Content Set 1/content 1.2.html,Basketball,Basketball Passing and Scoring,Target: Basketball Passing and Scoring.
+1,Sports,4,P3,Content Set 1/content 1.8.html,Track Cycling,Track Cycling Race Formats,Target: Track Cycling Race Formats.
+1,Sports,5,P4,Content Set 1/content 1.11.html,Field Hockey,Field Hockey Scoring Rules,Target: Field Hockey Scoring Rules.
+1,Sports,6,P5,Content Set 1/content 1.14.html,Wrestling,Wrestling Grips and Scoring,Target: Wrestling Grips and Scoring.
+2,Animals,1,P2,Content Set 2/content 2.5.html,Fennec Fox,Fennec Fox Desert Adaptations,Target: Fennec Fox Desert Adaptations.
+2,Animals,2,P3,Content Set 2/content 2.8.html,Giant Panda,Giant Panda Diet and Habitats,Target: Giant Panda Diet and Habitats.
+2,Animals,3,P4,Content Set 2/content 2.11.html,Polar Bear,Polar Bear Hunting From Ice,Target: Polar Bear Hunting From Ice.
+2,Animals,4,P2,Content Set 2/content 2.5.html,Fennec Fox,Fennec Fox Desert Adaptations,Target: Fennec Fox Desert Adaptations.
+2,Animals,5,P5,Content Set 2/content 2.14.html,Snow Leopard,Snow Leopard Mountain Adaptations,Target: Snow Leopard Mountain Adaptations.
+2,Animals,6,P1,Content Set 2/content 2.2.html,Red Panda,Red Panda Habitats in Forests,Target: Red Panda Habitats in Forests.
+3,Nature,1,P3,Content Set 3/content 3.8.html,Coral Reefs,Coral Reefs Support Marine Life,Target: Coral Reefs Support Marine Life.
+3,Nature,2,P4,Content Set 3/content 3.11.html,Mangroves,Mangroves and Coastal Habitats,Target: Mangroves and Coastal Habitats.
+3,Nature,3,P5,Content Set 3/content 3.14.html,Mountains,Mountains and Erosion Patterns,Target: Mountains and Erosion Patterns.
+3,Nature,4,P1,Content Set 3/content 3.2.html,Waterfalls,Waterfalls and Rock Erosion,Target: Waterfalls and Rock Erosion.
+3,Nature,5,P3,Content Set 3/content 3.8.html,Coral Reefs,Coral Reefs Support Marine Life,Target: Coral Reefs Support Marine Life.
+3,Nature,6,P2,Content Set 3/content 3.5.html,Volcanoes,Volcanoes and Flowing Lava,Target: Volcanoes and Flowing Lava.
+4,Science,1,P4,Content Set 4/content 4.11.html,Mirrors,Mirrors and Light Reflection,Target: Mirrors and Light Reflection.
+4,Science,2,P5,Content Set 4/content 4.14.html,Optical Lenses,Optical Lenses Redirect Light,Target: Optical Lenses Redirect Light.
+4,Science,3,P1,Content Set 4/content 4.2.html,Gravity,Gravity Pulls Objects Together,Target: Gravity Pulls Objects Together.
+4,Science,4,P2,Content Set 4/content 4.5.html,Light Waves,Light Waves and Visible Colors,Target: Light Waves and Visible Colors.
+4,Science,5,P3,Content Set 4/content 4.8.html,Planets,Planets and Their Composition,Target: Planets and Their Composition.
+4,Science,6,P4,Content Set 4/content 4.11.html,Mirrors,Mirrors and Light Reflection,Target: Mirrors and Light Reflection.
+5,History,1,P5,Content Set 5/content 5.14.html,Locomotive,Locomotive Design for Railways,Target: Locomotive Design for Railways.
+5,History,2,P1,Content Set 5/content 5.2.html,Steam Engine,Steam Engine Mechanical Power,Target: Steam Engine Mechanical Power.
+5,History,3,P2,Content Set 5/content 5.5.html,Typewriter,Typewriter Keys Produce Text,Target: Typewriter Keys Produce Text.
+5,History,4,P3,Content Set 5/content 5.8.html,Bicycle,Bicycle Design Through History,Target: Bicycle Design Through History.
+5,History,5,P5,Content Set 5/content 5.14.html,Locomotive,Locomotive Design for Railways,Target: Locomotive Design for Railways.
+5,History,6,P4,Content Set 5/content 5.11.html,Radio,Radio Broadcasting Reaches Homes,Target: Radio Broadcasting Reaches Homes.

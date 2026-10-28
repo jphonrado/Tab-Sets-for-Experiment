@@ -7,10 +7,12 @@
       71
     ],
     "title_characters": [
-      20,
+      25,
       32
     ],
-    "mean_title_characters": 26.9
+    "mean_title_characters": 27.8,
+    "mean_target_title_characters": 27.2,
+    "mean_distractor_title_characters": 28.1
   },
   "Animals": {
     "pages": 15,
@@ -20,10 +22,12 @@
       74
     ],
     "title_characters": [
-      21,
+      26,
       33
     ],
-    "mean_title_characters": 28.1
+    "mean_title_characters": 29.5,
+    "mean_target_title_characters": 29.4,
+    "mean_distractor_title_characters": 29.6
   },
   "Nature": {
     "pages": 15,
@@ -33,10 +37,12 @@
       67
     ],
     "title_characters": [
-      20,
-      37
+      25,
+      31
     ],
-    "mean_title_characters": 29.5
+    "mean_title_characters": 28.2,
+    "mean_target_title_characters": 28.8,
+    "mean_distractor_title_characters": 27.9
   },
   "Science": {
     "pages": 15,
@@ -46,10 +52,12 @@
       67
     ],
     "title_characters": [
-      21,
-      41
+      25,
+      33
     ],
-    "mean_title_characters": 29.7
+    "mean_title_characters": 29.3,
+    "mean_target_title_characters": 29.2,
+    "mean_distractor_title_characters": 29.3
   },
   "History": {
     "pages": 15,
@@ -59,9 +67,11 @@
       70
     ],
     "title_characters": [
-      28,
-      40
+      26,
+      33
     ],
-    "mean_title_characters": 32.2
+    "mean_title_characters": 30.3,
+    "mean_target_title_characters": 29.8,
+    "mean_distractor_title_characters": 30.6
   }
 }

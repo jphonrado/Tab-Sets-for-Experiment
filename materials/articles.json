@@ -72,7 +72,7 @@
             "A consistent stance helps an archer repeat the same shooting movement.",
             "Arrows closer to the target's center normally receive more scoring points."
           ],
-          "title": "Archery Target Accuracy"
+          "title": "Archery Aiming and Accuracy"
         },
         {
           "name": "Basketball",
@@ -126,7 +126,7 @@
             "Field players generally handle the ball using only one hand at a time.",
             "Players remain afloat by swimming or treading water during active play."
           ],
-          "title": "Water Polo Team Play"
+          "title": "Water Polo Passing and Scoring"
         },
         {
           "name": "Track Cycling",
@@ -274,7 +274,7 @@
             "Eyes and nostrils near the top of the head help it watch while submerged.",
             "Group living provides more animals to watch for nearby dangers together."
           ],
-          "title": "Capybara Life Near Water"
+          "title": "Capybara Habitats Near Water"
         },
         {
           "name": "Red Panda",
@@ -283,7 +283,7 @@
             "Red pandas belong to their own animal family rather than the bear family.",
             "Their thick fur and bushy tails help them cope with cool conditions."
           ],
-          "title": "Red Panda Forest Life"
+          "title": "Red Panda Habitats in Forests"
         },
         {
           "name": "Meerkat",
@@ -292,7 +292,7 @@
             "Burrow systems provide shelter from predators and extremes of outdoor temperature.",
             "Meerkats use different alarm calls to warn others about approaching dangers."
           ],
-          "title": "Meerkat Burrows and Warning Calls"
+          "title": "Meerkat Groups and Burrows"
         },
         {
           "name": "Giraffe",
@@ -328,7 +328,7 @@
             "A long tail helps the cheetah balance when changing direction during pursuit.",
             "Young cheetahs learn hunting skills while spending time with their mother."
           ],
-          "title": "Cheetah Speed and Hunting"
+          "title": "Cheetah Speed and Hunting Skills"
         },
         {
           "name": "Giant Panda",
@@ -337,7 +337,7 @@
             "Giant pandas can climb trees, including when young animals seek safety.",
             "Scent marks help pandas exchange information without meeting each other directly."
           ],
-          "title": "Giant Panda Bamboo Diet"
+          "title": "Giant Panda Diet and Habitats"
         },
         {
           "name": "Orangutan",
@@ -346,7 +346,7 @@
             "Orangutans have no tail and use strong limbs to move through trees.",
             "Young orangutans spend years with their mothers while learning forest survival skills."
           ],
-          "title": "Orangutan Life in Trees"
+          "title": "Orangutan Habitats in Trees"
         },
         {
           "name": "Hippopotamus",
@@ -476,7 +476,7 @@
             "A closed canopy helps create a shaded environment beneath the trees.",
             "Rainforest habitats support many plant species within a relatively small area."
           ],
-          "title": "Rainforests Canopy and Forest Life"
+          "title": "Rainforests and Canopy Wildlife"
         },
         {
           "name": "Waterfalls",
@@ -485,7 +485,7 @@
             "Waterfall shapes depend partly on the rocks that water flows across.",
             "The amount of flowing water can change with rainfall and seasons."
           ],
-          "title": "Waterfalls Shape Rocky Landscapes"
+          "title": "Waterfalls and Rock Erosion"
         },
         {
           "name": "Wetlands",
@@ -512,7 +512,7 @@
             "Molten rock is called lava once it reaches the Earth's surface.",
             "Different eruption styles produce a variety of volcanic shapes and deposits."
           ],
-          "title": "Volcanoes Lava and Landforms"
+          "title": "Volcanoes and Flowing Lava"
         },
         {
           "name": "Grasslands",
@@ -530,7 +530,7 @@
             "Water can gradually enlarge cracks in certain rocks to form passages.",
             "Caves vary widely in their size, shape, moisture, and geological origins."
           ],
-          "title": "Caves Water and Rock"
+          "title": "Caves and Underground Water"
         },
         {
           "name": "Coral Reefs",
@@ -548,7 +548,7 @@
             "Glacier ice forms from snow that accumulates and becomes increasingly compressed.",
             "Moving glaciers can scrape the ground and transport pieces of rock."
           ],
-          "title": "Glaciers Reshape Valleys"
+          "title": "Glaciers and Changing Valleys"
         },
         {
           "name": "River Deltas",
@@ -557,7 +557,7 @@
             "A river carries sediment that can accumulate near its meeting place.",
             "Waves, tides, and sediment supply influence the shape of a delta."
           ],
-          "title": "River Deltas Sediment Deposits"
+          "title": "River Deltas and Sediment"
         },
         {
           "name": "Mangroves",
@@ -566,7 +566,7 @@
             "Mangrove roots help stabilize coastal sediment in areas affected by tides.",
             "These coastal forests provide sheltered habitat around their roots and branches."
           ],
-          "title": "Mangroves Stabilize Coastal Sediment"
+          "title": "Mangroves and Coastal Habitats"
         },
         {
           "name": "Canyons",
@@ -593,7 +593,7 @@
             "Different geological processes produce mountains with a variety of visible shapes.",
             "Weathering and erosion continue changing mountain landscapes after their initial formation."
           ],
-          "title": "Mountains Formation and Erosion"
+          "title": "Mountains and Erosion Patterns"
         },
         {
           "name": "Estuaries",
@@ -602,7 +602,7 @@
             "Estuary water often contains a changing mixture of freshwater and seawater.",
             "Rivers and tides influence the habitats found within and around estuaries."
           ],
-          "title": "Estuaries Mix Freshwater and Seawater"
+          "title": "Estuaries and Coastal Waters"
         }
       ]
     },
@@ -691,7 +691,7 @@
             "A larger mass produces a stronger gravitational attraction at the same distance.",
             "Gravity helps guide the orbital motion of planets, moons, and spacecraft."
           ],
-          "title": "Gravity Mass and Attraction"
+          "title": "Gravity Pulls Objects Together"
         },
         {
           "name": "Sound Waves",
@@ -709,7 +709,7 @@
             "Photovoltaic cells transform light energy into electricity without burning a fuel.",
             "The amount of available sunlight influences how much electricity panels generate."
           ],
-          "title": "Solar Panels Generate Electricity"
+          "title": "Solar Panels and Electricity"
         },
         {
           "name": "Light Waves",
@@ -745,7 +745,7 @@
             "Planets orbiting stars beyond our solar system are commonly called exoplanets.",
             "Astronomers can detect some distant planets through changes in their stars."
           ],
-          "title": "Planets Orbits and Composition"
+          "title": "Planets and Their Composition"
         },
         {
           "name": "Levers",
@@ -754,7 +754,7 @@
             "A lever's arrangement can trade a longer movement for a smaller force.",
             "Seesaws and crowbars are everyday examples of objects using lever principles."
           ],
-          "title": "Levers Force and Fulcrums"
+          "title": "Levers and Their Pivot Points"
         },
         {
           "name": "Batteries",
@@ -772,7 +772,7 @@
             "Reflected light leaves a smooth surface at a predictable matching angle.",
             "Curved mirrors can bring reflected rays together or spread them apart."
           ],
-          "title": "Mirrors Reflect Light"
+          "title": "Mirrors and Light Reflection"
         },
         {
           "name": "Microscopes",
@@ -790,7 +790,7 @@
             "Friction can prevent slipping even when the contacting objects remain still.",
             "Sliding friction can transfer some motion energy into heating the surfaces."
           ],
-          "title": "Friction Resists Sliding Between Surfaces"
+          "title": "Friction Between Moving Surfaces"
         },
         {
           "name": "Optical Lenses",
@@ -808,7 +808,7 @@
             "An artificial satellite usually needs a power source and communication equipment.",
             "Different satellite orbits suit different tasks, including mapping and weather observation."
           ],
-          "title": "Satellites Natural and Artificial"
+          "title": "Satellites and Their Orbits"
         }
       ]
     },
@@ -911,7 +911,7 @@
             "A telephone transmits speech rather than requiring an operator to decode messages.",
             "Historical notebooks and surviving instruments document experiments with transmitting the human voice."
           ],
-          "title": "Telephone Conversations Across Distances"
+          "title": "Telephone Calls Across Distances"
         },
         {
           "name": "Typewriter",
@@ -929,7 +929,7 @@
             "Machines supported the production of multiple garments based on the same patterns.",
             "Factory workers often assembled particular parts instead of making each complete garment."
           ],
-          "title": "Sewing Machine Clothing Production"
+          "title": "Sewing Machine Parts and Stitches"
         },
         {
           "name": "Phonograph",
@@ -938,7 +938,7 @@
             "Sound vibrations moved a needle that marked a groove in the recording surface.",
             "A playback needle followed the recorded groove to reproduce the captured sounds."
           ],
-          "title": "Phonograph Recording and Playback"
+          "title": "Phonograph Sound Recordings"
         },
         {
           "name": "Bicycle",
@@ -956,7 +956,7 @@
             "A lens could produce a brighter image inside an enclosed darkened box.",
             "Light sensitive recording materials made it possible to preserve a projected scene."
           ],
-          "title": "Camera Origins in Image Projection"
+          "title": "Camera History and Image Capture"
         },
         {
           "name": "Light Bulb",
@@ -965,7 +965,7 @@
             "Early experiments tested different filament materials to improve useful operating life.",
             "A lamp needed supporting equipment such as wiring, switches, and power supplies."
           ],
-          "title": "Light Bulb Filament Improvements"
+          "title": "Light Bulb Filament Design"
         },
         {
           "name": "Radio",
@@ -992,7 +992,7 @@
             "An escapement releases energy in controlled steps instead of all at once.",
             "Surviving clock mechanisms show the skill involved in making gears and regulators."
           ],
-          "title": "Mechanical Clock Gears and Timekeeping"
+          "title": "Mechanical Clock Gears and Motion"
         },
         {
           "name": "Locomotive",

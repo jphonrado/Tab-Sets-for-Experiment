@@ -15,7 +15,13 @@
     "participant role labels absent",
     "all local assets present",
     "word-count bounds",
-    "varied target ranks"
+    "original target-position templates",
+    "original subjects and target identities retained",
+    "25-33 character titles",
+    "exact-title prompts without Go",
+    "neutral-last placement",
+    "popup sequences end with Study Start",
+    "material-to-condition counterbalancing"
   ],
   "limits": "Structural checks do not establish equal task difficulty or actual macOS tab-title visibility."
 }

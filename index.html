@@ -14,7 +14,7 @@
     <p class="eyebrow">For researchers</p>
     <h1>Prepare a content set</h1>
     <p class="intro">Open the prepared task pages and the neutral starting tab. Set the browser’s horizontal or vertical layout manually using your study settings.</p>
-    <div class="notice"><strong>Before recording:</strong> close this setup tab and unrelated tabs. The study window must contain exactly <strong>6 tabs at low load</strong> or <strong>16 at high load</strong>. Activate <strong>Study Start</strong> before each trial. Keep this setup page and the answer sheet out of the participant’s view.</div>
+    <div class="notice"><strong>Before recording:</strong> close this setup tab and unrelated tabs in the recording window. Keep exactly <strong>6 tabs at low load</strong> or <strong>16 at high load</strong>. Keep <strong>Study Start last</strong> (tab 6 or 16) and activate it before each trial. Keep this setup page and the answer sheet out of the participant’s view.</div>
     <form id="setup-form">
       <div class="fields">
         <label>Content set<select id="set" name="set"></select></label>
@@ -32,22 +32,24 @@
     <p id="launch-progress" class="launch-progress">0 study tabs opened</p>
     <p id="status" role="status" aria-live="polite">Choose a set and load to prepare a block.</p>
     <details id="popup-help">
-      <summary>Only the Ready / “Go” screen opened?</summary>
-      <p>That is the neutral starting tab. Return to this researcher setup tab to finish opening the task pages.</p>
+      <summary>Only one study tab opened?</summary>
+      <p>The browser may have blocked the remaining popups. Return to this setup tab to continue.</p>
       <ol>
-        <li>For one-click opening in Chrome, click the blocked-pop-up icon beside the address bar and allow pop-ups for the Live Server address. Then click <strong>OPEN ALL TABS</strong> again. Tabs already opened in this preparation are skipped.</li>
-        <li>Without changing that setting, use <strong>Open next tab</strong>. Return to this setup tab after each opening and click again until the counter is complete.</li>
-        <li>Close this setup tab before the experiment. Keep exactly 6 or 16 study tabs, with Study Start first.</li>
+        <li>Allow popups for the local study address, then click <strong>OPEN ALL TABS</strong> again. Tabs already opened by this setup are skipped.</li>
+        <li>Alternatively, use <strong>Open next tab</strong> once per page, returning here between clicks.</li>
+        <li>Close setup and unrelated tabs before recording. Verify the actual order against the list: popup opening cannot enforce native tab positions. Keep Study Start last and activate it before each trial.</li>
       </ol>
     </details>
     <h2>Selected pages, in opening order</h2>
     <ol id="page-links"></ol>
-    <p class="note">Study Start opens first and must remain the first tab. Verify the actual task-tab order against the list before beginning. Do not rearrange tabs during scored trials.</p>
+    <p class="note">Study Start opens last: rightmost horizontally and bottommost vertically. Task positions equal browser tab numbers. Verify the actual order against this list before beginning. Do not rearrange tabs during scored trials.</p>
     <h2>Researcher materials</h2>
     <ul class="resources">
       <li><a href="materials/targets-and-trials.md">Target list and six-trial scripts</a></li>
       <li><a href="materials/stimulus-audit.csv">Title, word-count, and position audit</a></li>
       <li><a href="materials/trial-prompts.csv">Trial prompt table</a></li>
+      <li><a href="materials/audio-update-checklist.md">Changed titles and audio recording checklist</a></li>
+      <li><a href="materials/tab-position-tables.tex">Updated LaTeX position tables</a></li>
       <li><a href="README.md">Setup and study notes</a></li>
       <li><a href="SOURCES.md">Sources used for article facts</a></li>
     </ul>

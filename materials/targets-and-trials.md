@@ -3,13 +3,17 @@
 **Researcher material: keep this document and the setup page out of view during trials.**
 
 Record each complete prompt in advance using the same voice, pace, volume,
-and pause before 'Go.' These are scripts, not generated audio recordings.
+and a fixed pause after the exact-title cue. Do not include 'Go'.
+Mask disappearance is the sole start cue. These scripts are not audio recordings.
 Use the same recording for an item whenever its set is assigned to another condition.
 Return to Study Start and restore the pointer and tab-list scroll position before each trial.
 Never open or close task tabs during a scored trial.
 
 P1-P5 identify targets in the research record only, never on participant pages.
 Low-load pages retain their relative order from the high-load list.
+
+Study Start is last (browser tab 6 or 16); task positions equal browser tab numbers.
+Any controller that previously selected tab 1 for reset must be updated.
 
 ## Set 1: Sports
 
@@ -23,16 +27,16 @@ Low-load pages retain their relative order from the high-load list.
 
 | Trial | Target | Exact spoken prompt |
 | --- | --- | --- |
-| 1 | P1 | Find the page about Basketball. Go. |
-| 2 | P2 | Find the page about Swimming. Go. |
-| 3 | P1 | Find the page about Basketball. Go. |
-| 4 | P3 | Find the page about Track Cycling. Go. |
-| 5 | P4 | Find the page about Field Hockey. Go. |
-| 6 | P5 | Find the page about Wrestling. Go. |
+| 1 | P1 | Target: Basketball Passing and Scoring. |
+| 2 | P2 | Target: Swimming Strokes and Relays. |
+| 3 | P1 | Target: Basketball Passing and Scoring. |
+| 4 | P3 | Target: Track Cycling Race Formats. |
+| 5 | P4 | Target: Field Hockey Scoring Rules. |
+| 6 | P5 | Target: Wrestling Grips and Scoring. |
 
 High-load file order: 1, 2, 3, 5, 4, 6, 7, 8, 9, 10, 11, 12, 13, 15, 14.
 Low-load file order: 2, 5, 8, 11, 14.
-The neutral start tab is additional to these task-page counts.
+Study Start follows all task tabs and is the last browser tab.
 
 ## Set 2: Animals
 
@@ -46,16 +50,16 @@ The neutral start tab is additional to these task-page counts.
 
 | Trial | Target | Exact spoken prompt |
 | --- | --- | --- |
-| 1 | P2 | Find the page about Fennec Fox. Go. |
-| 2 | P3 | Find the page about Giant Panda. Go. |
-| 3 | P4 | Find the page about Polar Bear. Go. |
-| 4 | P2 | Find the page about Fennec Fox. Go. |
-| 5 | P5 | Find the page about Snow Leopard. Go. |
-| 6 | P1 | Find the page about Red Panda. Go. |
+| 1 | P2 | Target: Fennec Fox Desert Adaptations. |
+| 2 | P3 | Target: Giant Panda Diet and Habitats. |
+| 3 | P4 | Target: Polar Bear Hunting From Ice. |
+| 4 | P2 | Target: Fennec Fox Desert Adaptations. |
+| 5 | P5 | Target: Snow Leopard Mountain Adaptations. |
+| 6 | P1 | Target: Red Panda Habitats in Forests. |
 
 High-load file order: 2, 1, 3, 4, 6, 5, 7, 9, 8, 10, 12, 11, 13, 14, 15.
 Low-load file order: 2, 5, 8, 11, 14.
-The neutral start tab is additional to these task-page counts.
+Study Start follows all task tabs and is the last browser tab.
 
 ## Set 3: Nature
 
@@ -69,16 +73,16 @@ The neutral start tab is additional to these task-page counts.
 
 | Trial | Target | Exact spoken prompt |
 | --- | --- | --- |
-| 1 | P3 | Find the page about Coral Reefs. Go. |
-| 2 | P4 | Find the page about Mangroves. Go. |
-| 3 | P5 | Find the page about Mountains. Go. |
-| 4 | P1 | Find the page about Waterfalls. Go. |
-| 5 | P3 | Find the page about Coral Reefs. Go. |
-| 6 | P2 | Find the page about Volcanoes. Go. |
+| 1 | P3 | Target: Coral Reefs Support Marine Life. |
+| 2 | P4 | Target: Mangroves and Coastal Habitats. |
+| 3 | P5 | Target: Mountains and Erosion Patterns. |
+| 4 | P1 | Target: Waterfalls and Rock Erosion. |
+| 5 | P3 | Target: Coral Reefs Support Marine Life. |
+| 6 | P2 | Target: Volcanoes and Flowing Lava. |
 
 High-load file order: 1, 3, 2, 4, 5, 6, 8, 7, 9, 11, 10, 12, 14, 13, 15.
 Low-load file order: 2, 5, 8, 11, 14.
-The neutral start tab is additional to these task-page counts.
+Study Start follows all task tabs and is the last browser tab.
 
 ## Set 4: Science
 
@@ -92,16 +96,16 @@ The neutral start tab is additional to these task-page counts.
 
 | Trial | Target | Exact spoken prompt |
 | --- | --- | --- |
-| 1 | P4 | Find the page about Mirrors. Go. |
-| 2 | P5 | Find the page about Optical Lenses. Go. |
-| 3 | P1 | Find the page about Gravity. Go. |
-| 4 | P2 | Find the page about Light Waves. Go. |
-| 5 | P3 | Find the page about Planets. Go. |
-| 6 | P4 | Find the page about Mirrors. Go. |
+| 1 | P4 | Target: Mirrors and Light Reflection. |
+| 2 | P5 | Target: Optical Lenses Redirect Light. |
+| 3 | P1 | Target: Gravity Pulls Objects Together. |
+| 4 | P2 | Target: Light Waves and Visible Colors. |
+| 5 | P3 | Target: Planets and Their Composition. |
+| 6 | P4 | Target: Mirrors and Light Reflection. |
 
 High-load file order: 1, 2, 3, 4, 6, 5, 7, 8, 9, 10, 12, 11, 13, 15, 14.
 Low-load file order: 2, 5, 8, 11, 14.
-The neutral start tab is additional to these task-page counts.
+Study Start follows all task tabs and is the last browser tab.
 
 ## Set 5: History (extra)
 
@@ -115,14 +119,14 @@ The neutral start tab is additional to these task-page counts.
 
 | Trial | Target | Exact spoken prompt |
 | --- | --- | --- |
-| 1 | P5 | Find the page about Locomotive. Go. |
-| 2 | P1 | Find the page about Steam Engine. Go. |
-| 3 | P2 | Find the page about Typewriter. Go. |
-| 4 | P3 | Find the page about Bicycle. Go. |
-| 5 | P5 | Find the page about Locomotive. Go. |
-| 6 | P4 | Find the page about Radio. Go. |
+| 1 | P5 | Target: Locomotive Design for Railways. |
+| 2 | P1 | Target: Steam Engine Mechanical Power. |
+| 3 | P2 | Target: Typewriter Keys Produce Text. |
+| 4 | P3 | Target: Bicycle Design Through History. |
+| 5 | P5 | Target: Locomotive Design for Railways. |
+| 6 | P4 | Target: Radio Broadcasting Reaches Homes. |
 
 High-load file order: 2, 1, 3, 5, 4, 6, 8, 7, 9, 10, 11, 12, 13, 14, 15.
 Low-load file order: 2, 5, 8, 11, 14.
-The neutral start tab is additional to these task-page counts.
+Study Start follows all task tabs and is the last browser tab.
 

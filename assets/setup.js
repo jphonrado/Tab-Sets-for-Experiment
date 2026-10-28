@@ -30,10 +30,11 @@
   }
   function plannedPages() {
     const set = selectedSet();
-    return [{ path: materials.neutral_page, title: "Study Start — neutral starting tab" }]
-      .concat(set[loadSelect.value].map(function (path) {
-        return set.pages.find(function (page) { return page.path === path; });
-      }));
+    return set.launch_order[loadSelect.value].map(function (path) {
+      return path === materials.neutral_page
+        ? { path: path, title: "Study Start — neutral starting tab (last)" }
+        : set.pages.find(function (page) { return page.path === path; });
+    });
   }
   function pruneClosedTabs() {
     openedWindows.forEach(function (handle, path) {
@@ -49,7 +50,7 @@
   }
   function blockedMessage() {
     const origin = window.location.protocol === "file:" ? "this page" : window.location.origin;
-    return "The browser blocked another tab. Return to this setup tab after viewing Study Start. Allow pop-ups for " + origin + " and click OPEN ALL TABS again, or use Open next tab once per tab. Tabs already opened in this preparation will not be duplicated.";
+    return "The browser blocked another tab. Return to this setup tab. Allow pop-ups for " + origin + " and click OPEN ALL TABS again, or use Open next tab once per tab. Tabs already opened in this preparation will not be duplicated.";
   }
   function render(message, blocked) {
     pruneClosedTabs();
@@ -69,14 +70,14 @@
     progress.textContent = count + " / " + pages.length + " study tabs opened";
     status.dataset.state = blocked ? "blocked" : "ready";
     if (complete) {
-      status.textContent = "All " + pages.length + " tabs are open for " + selectedSet().topic + ". Close this setup tab and unrelated tabs. Keep Study Start first, verify the task-page order, then activate Study Start before the recorded prompt.";
+      status.textContent = "All " + pages.length + " tabs are open for " + selectedSet().topic + ". Close this setup tab and unrelated tabs. Verify the actual task-page order against this list, keep Study Start last, then activate Study Start before the recorded prompt. Popup code cannot verify native tab positions.";
       popupHelp.open = false;
     } else if (message) {
       status.textContent = message;
     }
     if (blocked) popupHelp.open = true;
     links.replaceChildren();
-    pages.forEach(function (page) {
+    pages.forEach(function (page, index) {
       const item = document.createElement("li");
       const link = document.createElement("a");
       const opened = openedWindows.has(page.path);
@@ -84,12 +85,15 @@
       link.target = "_blank";
       link.rel = "noopener";
       link.textContent = (opened ? "Opened — " : "") + page.title;
+      link.title = "Planned browser tab " + (index + 1) + " after closing setup and unrelated tabs";
       if (opened) item.className = "opened";
       link.addEventListener("click", function (event) {
         event.preventDefault();
         pruneClosedTabs();
         const existing = openedWindows.get(page.path);
         if (existing) { existing.focus(); return; }
+        const next = plannedPages().find(function (candidate) { return !openedWindows.has(candidate.path); });
+        if (!next || next.path !== page.path) return render("Open pages in the listed order using Open next tab.", false);
         const successful = openOne(page.path);
         render(successful ? "One tab opened. Return to this setup tab to continue; use the listed opening order." : blockedMessage(), !successful);
       });
